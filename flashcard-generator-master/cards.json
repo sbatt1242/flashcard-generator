@@ -1,0 +1,36 @@
+{"basic": {
+      "001": {
+            "front": "Chickens lay what?",
+            "back": "Eggs"
+      },
+      "002": {
+            "front": "Sound that a cow makes?",
+            "back": "moo"
+
+      },
+      "003": {
+            "front": "Derrick Thomas played linebacker for what NFL team?",
+            "back": "Kansas City Chiefs"
+
+      }
+},
+
+"clozed": {
+      "001": {
+            "front": "... are what chickens lay.",
+
+            "back": "Eggs"
+      },
+      "002": {
+            "front": "Cows noise sounds like ... .",
+            "back": "moo"
+
+      },
+      "003": {
+            "front": "Derrick Thomas played linebacker for.",
+            "back": "Kansas City Chiefs"
+
+      },
+      
+}
+}
